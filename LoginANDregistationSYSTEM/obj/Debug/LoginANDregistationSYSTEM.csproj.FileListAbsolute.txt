@@ -1,0 +1,14 @@
+G:\C sharp\LoginANDregistationSYSTEM\LoginANDregistationSYSTEM\bin\Debug\LoginANDregistationSYSTEM.exe.config
+G:\C sharp\LoginANDregistationSYSTEM\LoginANDregistationSYSTEM\bin\Debug\LoginANDregistationSYSTEM.exe
+G:\C sharp\LoginANDregistationSYSTEM\LoginANDregistationSYSTEM\bin\Debug\LoginANDregistationSYSTEM.pdb
+G:\C sharp\LoginANDregistationSYSTEM\LoginANDregistationSYSTEM\obj\Debug\LoginANDregistationSYSTEM.csprojAssemblyReference.cache
+G:\C sharp\LoginANDregistationSYSTEM\LoginANDregistationSYSTEM\obj\Debug\LoginANDregistationSYSTEM.Login.resources
+G:\C sharp\LoginANDregistationSYSTEM\LoginANDregistationSYSTEM\obj\Debug\LoginANDregistationSYSTEM.Properties.Resources.resources
+G:\C sharp\LoginANDregistationSYSTEM\LoginANDregistationSYSTEM\obj\Debug\LoginANDregistationSYSTEM.reg.resources
+G:\C sharp\LoginANDregistationSYSTEM\LoginANDregistationSYSTEM\obj\Debug\LoginANDregistationSYSTEM.csproj.GenerateResource.cache
+G:\C sharp\LoginANDregistationSYSTEM\LoginANDregistationSYSTEM\obj\Debug\LoginANDregistationSYSTEM.csproj.CoreCompileInputs.cache
+G:\C sharp\LoginANDregistationSYSTEM\LoginANDregistationSYSTEM\obj\Debug\LoginANDregistationSYSTEM.exe
+G:\C sharp\LoginANDregistationSYSTEM\LoginANDregistationSYSTEM\obj\Debug\LoginANDregistationSYSTEM.pdb
+G:\C sharp\LoginANDregistationSYSTEM\LoginANDregistationSYSTEM\bin\Debug\loginDB.mdf
+G:\C sharp\LoginANDregistationSYSTEM\LoginANDregistationSYSTEM\bin\Debug\loginDB_log.ldf
+G:\C sharp\LoginANDregistationSYSTEM\LoginANDregistationSYSTEM\obj\Debug\LoginANDregistationSYSTEM.home.resources
